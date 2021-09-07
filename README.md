@@ -1,6 +1,6 @@
 # simple-lambdas
 
-My solution for Chapter  Exercise  of “Introduction to Programming Using Java”.
+My solution for Chapter 4 Exercise 5 of “Introduction to Programming Using Java”.
 
 Problem Description:
 This exercise asks you to write a few lambda expressions and a function that returns a
